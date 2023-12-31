@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"E:\\UE4Project\\SLGPro\\ConnectMysql\\HostProject\\Plugins\\ConnectMysql\\Source\\ConnectMysql\\ConnectMysql.Build.cs",
+		"E:\\UE4Project\\SLGPro\\ConnectMysql\\HostProject\\Plugins\\ConnectMysql\\Source\\ThirdParty\\ConnectorLibs.Build.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

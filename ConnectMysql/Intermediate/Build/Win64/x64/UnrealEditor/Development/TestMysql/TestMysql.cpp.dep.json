@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue4project\\slgpro\\plugins\\testmysql\\source\\testmysql\\private\\testmysql.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epicgames\\unrealengine-5.2\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\ue4project\\slgpro\\plugins\\testmysql\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testmysql\\definitions.testmysql.h",
+            "e:\\ue4project\\slgpro\\plugins\\testmysql\\source\\testmysql\\public\\testmysql.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

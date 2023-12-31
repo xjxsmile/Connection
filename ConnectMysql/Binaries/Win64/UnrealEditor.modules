@@ -1,0 +1,8 @@
+{
+	"BuildId": "d22d29b4-ab84-41de-b557-8d2d8f627c91",
+	"Modules": 
+	{
+		"ConnectMysql": "UnrealEditor-ConnectMysql.dll",
+		"TestMysql": "UnrealEditor-TestMysql.dll"
+	}
+}

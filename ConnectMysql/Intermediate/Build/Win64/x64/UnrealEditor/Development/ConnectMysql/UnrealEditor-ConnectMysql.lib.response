@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ConnectMysql.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\UE4Project\SLGPro\Plugins\ConnectMysql\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConnectMysql\Module.ConnectMysql.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"E:\UE4Project\SLGPro\Plugins\ConnectMysql\Intermediate\Build\Win64\x64\UnrealEditor\Development\ConnectMysql\UnrealEditor-ConnectMysql.lib"

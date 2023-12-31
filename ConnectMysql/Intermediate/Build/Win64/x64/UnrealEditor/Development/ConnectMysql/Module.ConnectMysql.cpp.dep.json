@@ -1,0 +1,41 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\connectmysql\\module.connectmysql.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epicgames\\unrealengine-5.2\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\connectmysql\\definitions.connectmysql.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\connectmysql\\uht\\connectmysql.init.gen.cpp",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\connectmysql\\uht\\mysqlfunctionlibrary.gen.cpp",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\public\\mysqlfunctionlibrary.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\connectmysql\\uht\\mysqlfunctionlibrary.generated.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\public\\mysqlobject.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\connectmysql\\uht\\mysqlobject.generated.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\connectmysql\\uht\\mysqlobject.gen.cpp",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\private\\connectmysql.cpp",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\public\\connectmysql.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\epicgames\\unrealengine-5.2\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\private\\mysqlfunctionlibrary.cpp",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\public\\mysqllibrary.h",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\private\\mysqllibrary.cpp",
+            "d:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\string",
+            "d:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cctype",
+            "e:\\ue4project\\slgpro\\plugins\\connectmysql\\source\\connectmysql\\private\\mysqlobject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

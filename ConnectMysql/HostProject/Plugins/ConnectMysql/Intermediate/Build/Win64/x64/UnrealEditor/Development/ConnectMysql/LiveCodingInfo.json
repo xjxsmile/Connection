@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ConnectMysql.cpp.obj": [
+			"ConnectMysql.init.gen.cpp.obj",
+			"MySqlLibrary.gen.cpp.obj",
+			"MySqlObject.gen.cpp.obj",
+			"MySqlLibrary.cpp.obj",
+			"MySqlObject.cpp.obj",
+			"TestMysql.cpp.obj"
+		]
+	}
+}
